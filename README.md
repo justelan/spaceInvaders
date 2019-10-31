@@ -1,9 +1,9 @@
 A simple space invaders game created using Python's turtle library.
 
-# setup
-Be sure to have installed python and tk
+# Setup
+1. Be sure to have installed python and tk
 
-Download or clone all the files, start the application via terminal by typing:
+2. Download or clone all the files, start the application via terminal by typing:
 
     "python spaceInvader.py"
     
