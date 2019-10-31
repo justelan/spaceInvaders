@@ -13,4 +13,4 @@ Each kill will grow your score and will also make the aliens move faster, but yo
 So try to make your best score!
 
 Here is a preview of the interface:
-![alt text](https://github.com/justelan/spaceInvaders/blob/master/presentation.png)
+![alt text](https://github.com/justelan/spaceInvaders/blob/master/readme-image.png)
